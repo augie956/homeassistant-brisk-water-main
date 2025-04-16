@@ -1,5 +1,8 @@
 {
-  "domain": "homeassistant-brisk-water",
-  "name": "homeassistant-brisk-water",
-  "version": "v1.0.0"
+  "domain": "homeassistant-brisk-water",
+  "name": "homeassistant-brisk-water",
+  "version": "1.0.0",
+  "codeowners": ["augie956zzs"],
+  "issue_tracker": "https://github.com/augie956/homeassistant-brisk-water/issues",
+  "requirements": ["requests"]
 }
