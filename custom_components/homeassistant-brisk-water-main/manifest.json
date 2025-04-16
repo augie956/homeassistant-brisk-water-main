@@ -1,0 +1,8 @@
+{
+  "domain": "homeassistant-brisk-water",
+  "name": "homeassistant-brisk-water",
+  "version": "1.0.0",  <-- Start with a version number
+  "codeowners": ["augie956zzs"],  <-- Replace with your GitHub username
+  "issue_tracker": "https://github.com/augie956/homeassistant-brisk-water/issues",  <-- Replace with your repo's issue URL
+  "requirements": ["requests"]  <-- List any Python dependencies
+}
