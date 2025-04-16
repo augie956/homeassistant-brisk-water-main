@@ -2,4 +2,7 @@
   "domain": "brisk_water",
   "name": "Brisk Water",
   "version": "1.0.0",
+  "codeowners" [@augie956],
+  "issue_tracker": "https://github.com/augie956/homeassistant-brisk-water/issues",
+  "requirements": ["requests"]
 }
