@@ -1,0 +1,10 @@
+{
+  "domain": "brisk_water",
+  "name": "Brisk Water",
+  "documentation": "https://github.com/augie956/homeassistant-brisk-water-main",
+  "issue_tracker": "https://github.com/augie956/homeassistant-brisk-water-main/issues",
+  "codeowners": ["@augie956"],
+  "requirements": ["requests"],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
+}
